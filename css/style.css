@@ -1,0 +1,29 @@
+[class*= "col-"] {
+  border: 7px solid #FFF;
+  height: 60px;
+  margin-top: 40px;
+}
+
+.blue {
+  background-color: #4169E1;
+}
+
+.green {
+  background-color: #7CFC00;
+}
+
+.lightblue {
+  background-color: #00CED1;
+}
+
+.pink {
+background-color:	#FF1493;
+}
+
+.violet {
+  background: #9932CC;
+}
+
+.yellow {
+  background-color: #FFFF00;
+}
