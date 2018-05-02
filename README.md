@@ -1,7 +1,7 @@
 # GRID SYSTEM
 
-**General usage notes:**
+**Notas generales:**
 
-- Based on the image below, replicate the grid structure using the different columns that a framework gives us.
+- En base a la imagen a continuación, replique la estructura de la grilla usando las diferentes columnas que un marco nos da.
 
 ![template](https://preview.ibb.co/huKPWm/ejercicio_grid_gral.png")
